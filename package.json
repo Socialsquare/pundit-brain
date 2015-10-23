@@ -1,0 +1,26 @@
+{
+  "name": "pundit-brain",
+  "version": "0.0.1",
+  "description": "The brain behind the API to Answer to The Ultimate Question of Life, the Universe, and Everything.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Socialsquare/pundit-brain.git"
+  },
+  "author": "Kristoffer Dorph <kristofferdo@gmail.com>, Kræn Hansen <kraen@socialsquare.dk>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Socialsquare/pundit-brain/issues"
+  },
+  "homepage": "https://github.com/Socialsquare/pundit-brain#readme",
+  "devDependencies": {
+    "mocha": "^2.3.3"
+  },
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "express": "^4.13.3"
+  }
+}
